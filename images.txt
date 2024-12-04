@@ -1,1 +1,5 @@
 docker.io/library/redis:7
+docker.io/library/postgres:16
+ghcr.io/paperless-ngx/paperless-ngx:latest
+docker.io/gotenberg/gotenberg:8.7
+docker.io/apache/tika:latest
