@@ -4,3 +4,4 @@ ghcr.io/paperless-ngx/paperless-ngx:latest
 docker.io/gotenberg/gotenberg:8.7
 docker.io/apache/tika:latest
 docker.io/portainer/portainer:latest
+docker.io/portainer/portainer-ce:2.24.1
